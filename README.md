@@ -1,5 +1,10 @@
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wa9VCdg9rN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardaa.ture) 
+<a href="https://www.instagram.com/ardaa.ture/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" height="40"/>
+</a>
+<a href="https://discord.gg/wa9VCdg9rN" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
+</a>
 
 # 💻 Tech Stack:
 <p align="left">
