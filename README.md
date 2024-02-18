@@ -1,9 +1,9 @@
-[## 🌐 Socials:
+## 🌐 Socials:
 <a href="https://www.instagram.com/ardaa.ture/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="30" height="30"/>
 </a>
 <a href="https://discord.gg/wa9VCdg9rN" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="30" height="30"/>
 </a>
 
 # 💻 Tech Stack:
