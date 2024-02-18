@@ -5,6 +5,7 @@
 <a href="https://discord.gg/wa9VCdg9rN" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
 </a>
+
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -34,11 +35,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
 </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server" width="40" height="40"/>
-</a>
   </a>
-</p>
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Cesarlii&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cesarlii&theme=midnight-purple&hide_border=true) <br/>
