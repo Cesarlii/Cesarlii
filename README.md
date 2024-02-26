@@ -43,4 +43,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarlii&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=Cesarlii&icon=2&color=12)]()
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
