@@ -43,4 +43,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarlii&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="20" viewBox="0 0 150 20">
+  <rect width="150" height="20" rx="3" fill="#282c34"/>
+  <rect x="50" width="100" height="20" rx="3" fill="#4c51bf"/>
+  <rect width="150" height="20" rx="3" fill="transparent"/>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11">
+    <text x="25" y="15" fill="#282c34">Profile Views</text>
+    <text x="100" y="15" fill="#ffffff">248</text>
+  </g>
+</svg>
