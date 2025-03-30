@@ -43,3 +43,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarlii&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
   <img src="https://komarev.com/ghpvc/?username=ahm3taksk&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahm3taksk&theme=vue-dark" alt="GitHub Trophies"/>
+</div>
+
