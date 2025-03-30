@@ -3,7 +3,7 @@
   <a href="https://discord.gg/wa9VCdg9rN" target="_blank">
     <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-  <a href="https://www.instagram.com/ardaa.ture/" target="_blank">
+  <a href="https://www.instagram.com/ardaature/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40" style="margin: 0 10px;"/>
   </a>
 </div>
