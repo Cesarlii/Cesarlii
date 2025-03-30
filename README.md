@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cesarlii&theme=discord&no-frame=true&row=2&column=4&margin-w=15" alt="trophies"/>
 </div>
-
-<p align="right">
+<hr/>
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Cesarlii&color=5865F2&style=flat-square&label=PROFILE+VISITORS" alt="profile views"/>
 </p>
