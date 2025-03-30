@@ -44,7 +44,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=ahm3taksk&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahm3taksk&theme=vue-dark" alt="GitHub Trophies"/>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=cesarlii&theme=vue-dark" alt="GitHub Trophies"/>
+
 
