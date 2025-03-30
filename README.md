@@ -1,49 +1,30 @@
-## 🌐 Socials:
-<a href="https://www.instagram.com/ardaa.ture/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" height="40"/>
-</a>
-<a href="https://discord.gg/wa9VCdg9rN" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
-</a>
+## 🌐 Connect with Me
+<div align="left"> 
+  <a href="https://discord.gg/wa9VCdg9rN" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord" width="40" height="40" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://www.instagram.com/ardaa.ture/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40" style="margin: 0 10px;"/>
+  </a>
+</div>
 
-# 💻 Tech Stack:
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  </a>
-   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40" height="40"/>
-</a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-</a>
-  </a>
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cesarlii&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cesarlii&theme=midnight-purple&hide_border=true) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarlii&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## 💻 Tech Stack
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 15px; padding: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=cs,unity,dotnet,html,css,js,bootstrap,android,mysql&theme=dark" alt="tech stack"/>
+</div>
 
-  <img src="https://komarev.com/ghpvc/?username=ahm3taksk&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cesarlii&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Development+Analytics" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cesarlii&theme=nightowl&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarlii&theme=nightowl&hide_border=true&layout=compact&langs_count=8" height="165"/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=cesarlii&theme=vue-dark" alt="GitHub Trophies"/>
+## 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cesarlii&theme=discord&no-frame=true&row=2&column=4&margin-w=15" alt="trophies"/>
+</div>
 
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Cesarlii&color=5865F2&style=flat-square&label=PROFILE+VISITORS" alt="profile views"/>
+</p>
