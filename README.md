@@ -1,16 +1,16 @@
 ## 🌐 Connect with Me
-<div align="left"> 
+<div align="center" style="display: flex; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
   <a href="https://discord.gg/wa9VCdg9rN" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord" width="40" height="40" style="margin: 0 10px;"/>
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" title="Join our Discord" height="40"/>
   </a>
-  <a href="https://www.instagram.com/ardaature/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40" style="margin: 0 10px;"/>
+  <a href="https://www.instagram.com/ardaa.ture/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" title="Follow on Instagram" height="40"/>
   </a>
 </div>
 
 ## 💻 Tech Stack
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 15px; padding: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=cs,unity,dotnet,html,css,js,bootstrap,android,mysql&theme=dark" alt="tech stack"/>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(90px, 1fr)); gap: 12px; padding: 15px 0;">
+  <img src="https://skillicons.dev/icons?i=cs,unity,dotnet,html,css,js,bootstrap,java,mysql&theme=light" alt="tech stack" style="filter: brightness(0) invert(0.3)"/>
 </div>
 
 ## 📊 GitHub Stats
